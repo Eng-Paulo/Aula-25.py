@@ -1,5 +1,4 @@
 ''' (Caracteres) (<>^) (quantidade)
-
 > - Esquerda
 < - Direita
 ^ - Centro
